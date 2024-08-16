@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @harshhhit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @harshhhit
 
-<!---
-harshhhit/harshhhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m a DevOps Engineer with a passion for automating and optimizing workflows. I have hands-on experience with AWS CodeBuild, CodeDeploy, GCP Cloud Build, and Jenkins. I also have a solid understanding of Docker, Kubernetes, and Jenkins.
+
+🌱 I’m currently learning advanced Kubernetes orchestration and exploring new CI/CD tools to enhance my DevOps toolkit.
+
+💞️ I’m looking to collaborate on projects that involve cloud infrastructure, continuous integration, and continuous deployment. Let’s build something amazing together!
+
+📫 How to reach me: harshitnovember@gmail.com
+
+Feel free to tweak it to better match your style or add any additional details! 
